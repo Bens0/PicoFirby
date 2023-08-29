@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <lib/curl/curl.h>
+#include "lib/curl/curl.h"
 
 #define PROJECT_NAME "PicoFurby"
 
