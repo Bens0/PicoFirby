@@ -1,4 +1,4 @@
-[submodule "lib/pico-furby"]
-	path = lib/pico-furby
+[submodule "lib/pico-sdk"]
+	path = lib/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
 	branch = master
