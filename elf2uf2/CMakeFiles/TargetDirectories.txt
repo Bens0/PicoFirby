@@ -1,5 +1,0 @@
-/home/kkoroski/Desktop/Picofurby/PicoFurby/elf2uf2/CMakeFiles/elf2uf2.dir
-/home/kkoroski/Desktop/Picofurby/PicoFurby/elf2uf2/CMakeFiles/edit_cache.dir
-/home/kkoroski/Desktop/Picofurby/PicoFurby/elf2uf2/CMakeFiles/rebuild_cache.dir
-/home/kkoroski/Desktop/Picofurby/PicoFurby/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
-/home/kkoroski/Desktop/Picofurby/PicoFurby/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
